@@ -1,0 +1,66 @@
+65
+3 ; 5/1/2016 ;cerveja,batata frita,batatas
+1 ; 4/1/2016 ;peixe,carne,batatas,cerveja
+2 ; 10/1/2016 ;batata frita,batatas
+6 ; 5/1/2016 ;vinho,sumo,agua
+3 ; 6/1/2016 ;cerveja,amendoins,pao,presunto
+8 ; 15/1/2016 ;cerveja,cafe,pao,bolachas
+10 ; 19/1/2016 ;cafe,fiambre,cerveja
+12 ; 25/1/2016 ;cafe,amendoins,pao,bolachas
+15 ; 6/1/2016 ;peixe,presunto,carne 
+16 ; 2/2/2016 ;sumo,cerveja,carne 
+1 ; 10/1/2016 ;cha,amendoins,agua
+22 ; 4/1/2016 ;batatas,presunto,cha
+20 ; 2/2/2016 ;sumo,amendoins,batatas
+14 ; 2/2/2016 ;agua,batata frita,sumo
+15 ; 6/1/2016 ;agua,amendoins,bolachas
+9 ; 3/4/2016 ;batatas,presunto,cha
+11 ; 16/2/2016 ;fiambre,batata frita,cha
+21 ; 17/2/2016 ;pao,fiambre,carne,pao,bolachas
+19 ; 10/1/2016 ;sumo,agua,fiambre,bolachas
+18 ; 4/3/2016 ;vinho,amendoins,carne 
+5 ; 10/1/2016 ;cafe,presunto,peixe,agua
+19 ; 15/1/2016 ;cerveja,presunto
+17 ; 20/2/2016 ;fiambre,vinho,acucar,fiambre
+17 ; 16/2/2016 ;sumo,fiambre,pao,bolachas
+25 ; 6/1/2016 ;batatas,sumo,batata frita,bolachas
+23 ; 2/2/2016 ;batata frita,sumo,batatas
+14 ; 4/4/2016 ;sumo,amendoins,cerveja,batata frita
+2 ; 4/1/2016 ;vinho,batata frita,sumo,amendoins
+7 ; 25/3/2016 ;presunto,amendoins,peixe,agua
+5 ; 15/1/2016 ;agua,batata frita
+24 ; 25/3/2016 ;bolachas,pao,fiambre,carne
+2 ; 5/1/2016 ;fiambre,cerveja
+24 ; 8/2/2016 ;vinho,sumo,carne,fiambre
+3 ; 18/3/2016 ;agua,batata frita
+7 ; 23/1/2016 ;carne,acucar,pao,amendoins
+15 ; 4/3/2016 ;sumo,batata frita
+18 ; 5/2/2016 ;batata frita,amendoins,vinho,amendoins,cafe,sumo
+24 ; 3/4/2016 ;batatas,cha,amendoins
+6 ; 24/1/2016 ;agua,cha,cerveja
+23 ; 31/1/2016 ;presunto,cha,cerveja,vinho 
+11 ; 25/3/2016 ;vinho,cerveja,acucar
+13 ; 5/1/2016 ;agua,cerveja,carne
+1 ; 31/1/2016 ;cafe,cerveja,sumo,amendoins
+3 ; 2/1/2016 ;cerveja,sumo,amendoins
+5 ; 4/4/2016 ;sumo,pao,peixe,carne 
+7 ; 23/1/2016 ;vinho,batata frita
+25 ; 15/3/2016 ;cerveja,amendoins
+16 ; 17/2/2016 ;pao,batata frita,fiambre
+17 ; 21/2/2016 ;cerveja,fiambre,presunto
+12 ; 15/1/2016 ;vinho,presunto,peixe,carne
+13 ; 15/1/2016 ; cerveja , vinho , cafe
+1 ; 15/1/2016 ; cerveja , vinho , cafe
+14 ; 15/1/2016 ; cerveja , vinho , cafe
+15 ; 15/1/2016 ; cerveja , vinho , cafe
+19 ; 15/1/2016 ; cerveja , vinho , cafe
+21 ; 15/1/2016 ; cerveja , vinho , cafe
+12 ; 15/1/2016 ; cerveja , vinho , cafe
+6 ; 15/1/2016 ; cerveja , vinho , cafe
+3 ; 15/1/2016 ; cerveja , vinho , cafe
+20 ; 15/1/2016 ; cerveja , vinho , cafe
+22 ; 15/1/2016 ; cerveja , vinho , cafe , sumo
+23 ; 15/1/2016 ; cerveja , vinho , cafe , sumo , fiambre , amendoins
+24 ; 15/1/2016 ; cerveja , vinho , cafe , sumo , fiambre , amendoins , batata frita
+25 ; 15/1/2016 ; cerveja , vinho , cafe , sumo , fiambre , amendoins , batata frita , batatas
+9 ; 15/1/2016 ; cerveja , vinho , cafe , sumo , fiambre , amendoins , batata frita , batatas , pao

@@ -1,0 +1,26 @@
+24
+1 ; Manuel Antonio Guedes ; 1/7/2016 ; 10.03
+2 ; Albina Martins ; 2/7/2016 ; 223.00
+3 ; Jose Antonio Marques ; 9/7/2016 ; 21.10
+5 ; Maria Alice Almeida ; 10/7/2016 ; 120.33
+6 ; Antonio Afonso de Jesus ; 10/7/2016 ; 20.53
+7 ; Henrique Fernandes ; 13/7/2016 ; 124.50
+8 ; Pedro Filipe Almeida ; 21/6/2016 ; 220.00
+9 ; Joana Santos Barros ; 10/7/2016 ; 300.00
+10 ; Miguel Antonio Carvalho ; 14/7/2016 ; 199.99
+11 ; Pedro Castro Correia ; 9/3/2016 ; 150.43
+12 ; Daniel Jose Reis ; 10/3/2016 ; 20.4
+13 ; Luis Mamede Ramos ; 11/4/2016 ; 0.50
+14 ; Joana Maria Sousa ; 10/5/2016 ; 10.50
+15 ; Daniela Sofia Carvalho ; 14/3/2016 ; 12.60
+16 ; Ana Paula Correia ; 21/3/2016 ; 100.50
+17 ; Fabio Renato Moura ; 24/3/2016 ; 99.99
+18 ; Pedro Alberto Simao ; 21/4/2016 ; 250.99
+19 ; Pedro Jose Sousa ; 16/4/2016 ; 14.83
+20 ; Alberto Manuel Costa ; 14/4/2016 ; 80.79
+21 ; Goncalo Silva Rocha ; 13/5/2016 ; 19.20
+22 ; Daniela Maria Assis ; 11/3/2016 ; 420.99
+23 ; Hugo Carmo Oliveira ; 21/4/2016 ; 300.10
+24 ; Hugo Afonso Oliveira ; 1/5/2016 ; 150.33
+25 ; Ines de Sousa Mendes ; 10/7/2016 ; 120.00
+
